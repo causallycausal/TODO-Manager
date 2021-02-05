@@ -47,15 +47,9 @@
         * description:
             * the main todo manager (todo manager of all todo manager)
             * when action is complete, looking at today's todo.txt should route you to the next actions you need to do.
-    * scrach.md
-        * description:
-            * scratch.md should not be version controled, but I am too lazy to get rid of it.
-            * scratch.md is just a file that I just to put some random stuff in. I find myself needing this type of files so I figure
-                to put it here as well 
     * hotkeys.md
         * description:
             * list of short cut keys across different apps. 
             * I find this super useful. because only noob uses mouse.
-    * life\_events\_todo.md
-        * description:
-            * I shouldn't version control this, but my parents want to know what i am up to, so they can have a look whenever
+# Acknowledgements
+* [Awannaphasch2016](https://github.com/Awannaphasch2016) for giving me this template.  
