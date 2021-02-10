@@ -11,3 +11,4 @@
 * Finish Workbook 4 questions 
 * Finish Workbook 2 questions 
 * Look into how to start a blog 
+* Refractor mnist_playground
