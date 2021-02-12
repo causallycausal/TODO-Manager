@@ -1,6 +1,5 @@
 # TODO
 * Finish Lesson 4 (expected finish 2/12) 
-* Finish Workbook 4 Questionnaire
 * Write Pizza Classifier (expected finish 2/12)
   * classify 3 pizzas (targets)
     * pepperoni, cheese, and Hawaiian 
