@@ -4,7 +4,6 @@
   * classify 3 pizzas (targets)
     * pepperoni, cheese, and Hawaiian 
   * Clean data 
-   * Remove .gif
    * Remove images that are not a target 
   * Export weights to a simple webapp after training 
 * Read chapter 2 in Deep Learning for Coders 
