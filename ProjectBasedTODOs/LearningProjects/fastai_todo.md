@@ -1,5 +1,4 @@
 # TODO
-* Finish Lesson 4 (expected finish 2/24) 
 * Go through regex tutorial 
 * Start reading chapter 5 
 
