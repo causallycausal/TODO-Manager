@@ -1,6 +1,7 @@
 # TODO
 * Go through regex tutorial 
-* Start reading chapter 5 
+* Finish reading chapter 5 3/2
+* Finish Problems 3/3
 
 Pushed back 
 * Read chapter 2 in Deep Learning for Coders 
