@@ -1,5 +1,4 @@
-# TODO
-* Go through regex tutorial 
+# TODO 
 * Finish reading chapter 5 3/2
 * Finish Problems 3/3
 
